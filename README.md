@@ -1,4 +1,6 @@
-### 안녕하세요! 필요로 하는 사람이되자라는 좌우명을 가지고 능동적으로 움직이는 신입 프론트엔드 개발자 조주선입니다 🙂
+<div align="center">
+안녕하세요! 필요로 하는 사람이되자라는 좌우명을 가지고 능동적으로 움직이는 신입 프론트엔드 개발자 조주선입니다 🙂
+</div>
 
 </br>
 </br>
@@ -35,13 +37,12 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</div>
-
-</div>
 
 </br>
 </br>
 
 <div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jusunjo&show_icons=true&theme=radical)
 
 </div>
